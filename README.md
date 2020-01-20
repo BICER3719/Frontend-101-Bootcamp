@@ -1,34 +1,31 @@
-# Bootcamp Adı
+# Frontend 101
 
 #### Programa Genel Bakış
-Bootcamp'in hangi konu üzerine açılacağı, neleri amaçladığı, ne kadar süre devam edeceği bilgilerinin yer alacağı kısım.
+Programın amacı frontend yetkinliklerini katılımcılara başlangıç ila orta düzeyde öğretmek. Bootcamp 10 gün sürüp frontend konuları işlenecektir.
 
 ---
 
-### [Eğitmen Adı-Soyadı]
+### Batuhan Akkaya
 
-#### Nerede çalıştığı, uzmanlık alanı
+#### Saypr, Javascript developer
 
-> Eğitmen hakkında 5,6 cümlelik çok kısa bir özgeçmiş yazısı.
+> 7 yıldır yazılım ile ilgileniyorum. Bu süre zarfında bir çok platformdaa (frontend, backend, mobil ve masaüstü yazılımları) geliştirme yaptım, şirketlerde çalıştım ve girişimcilikle ilgilendim. Şuanda Saypr şirketinde javascript geliştirici olarak remote çalışıyorum.
 
 ---
 
 ## Eğitim İçeriği:
 
-Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek. 
-
 * ### Hafta 1: 
-* Modern JavaScript
-* Intro to React
-* Virtual DOM
-* JSX
-* Class Components vs Function Components
+* Web sitesi nasıl geliştirilir
+* Html ve css
+* Javascript
+* Css ve javascript kütüphaneleri
+* Örnek proje geliştirme
 
 ### Hafta 2: 
-* Props & State
-* Create React App
-* React Developer Tools
-* Sample Project 1
+* SPA ve react giriş
+* React yardımcı kütüphaneler ve araçlar
+* React ile örnekler
 
 ---
 

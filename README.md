@@ -7,25 +7,25 @@ Programın amacı frontend yetkinliklerini katılımcılara başlangıç ila ort
 
 ### Batuhan Akkaya
 
-#### Saypr, Javascript developer
+#### Saypr, Javascript Developer
 
-> 7 yıldır yazılım ile ilgileniyorum. Bu süre zarfında bir çok platformdaa (frontend, backend, mobil ve masaüstü yazılımları) geliştirme yaptım, şirketlerde çalıştım ve girişimcilikle ilgilendim. Şuanda Saypr şirketinde javascript geliştirici olarak remote çalışıyorum.
+> 7 yıldır yazılım ile ilgileniyorum. Bu süre zarfında bir çok platformda (frontend, backend, mobil ve masaüstü yazılımları) geliştirme yaparak şirketlerde çalıştım ve girişimcilikle ilgilendim. Şu anda Saypr şirketinde Javascript Geliştirici olarak remote çalışıyorum.
 
 ---
 
 ## Eğitim İçeriği:
 
 * ### Hafta 1: 
-* Web sitesi nasıl geliştirilir
-* Html ve css
+* Web sitesi nasıl geliştirilir?
+* Html ve Css
 * Javascript
-* Css ve javascript kütüphaneleri
-* Örnek proje geliştirme
+* Css ve Javascript Kütüphaneleri
+* Örnek Proje Geliştirme
 
 ### Hafta 2: 
-* SPA ve react giriş
-* React yardımcı kütüphaneler ve araçlar
-* React ile örnekler
+* SPA ve React Giriş
+* React Yardımcı Kütüphaneler ve Araçlar
+* React ile Örnekler
 
 ---
 

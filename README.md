@@ -1,4 +1,4 @@
-# Frontend 101
+# Front-End 101 Bootcamp
 
 #### Programa Genel Bakış
 Programın amacı frontend yetkinliklerini katılımcılara başlangıç ila orta düzeyde öğretmek. Bootcamp 10 gün sürüp frontend konuları işlenecektir.
